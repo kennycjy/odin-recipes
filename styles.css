@@ -1,0 +1,11 @@
+.recipes-header {
+  color: skyblue;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.recipes-links {
+  color: red;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
